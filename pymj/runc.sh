@@ -1,3 +1,3 @@
 #!/bin/bash
-
-python3 -v pymjc.py
+# Run Python Script
+python3 pymjc.py
